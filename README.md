@@ -29,3 +29,6 @@ To set up PhilanWeb on your local development environment, follow these steps:
 ```bash
 git clone https://github.com/your-username/philanweb.git
 cd philanweb
+
+
+### Author: Dr. Muhammad Siddique
