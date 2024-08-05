@@ -24,11 +24,12 @@ To set up PhilanWeb on your local development environment, follow these steps:
 - MySQL or PostgreSQL
 - Node.js and npm (for asset compilation)
 
+### Author: Dr. Muhammad Siddique
+
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/philanweb.git
-cd philanweb
+cd philanweb'''
 
 
-### Author: Dr. Muhammad Siddique
